@@ -1,5 +1,4 @@
 # KNN
-Here is a comprehensive, production-ready `README.md` file based directly on the machine learning workflow in your Jupyter Notebook.
 
 ---
 
